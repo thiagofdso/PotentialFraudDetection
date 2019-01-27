@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PotentialFraudDetection", "PotentialFraudDetection\PotentialFraudDetection.pyproj", "{F6AE72EA-6EB0-4382-A2A7-45EF1188845D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6AE72EA-6EB0-4382-A2A7-45EF1188845D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AE72EA-6EB0-4382-A2A7-45EF1188845D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96A65ABC-5E0C-4DBB-B3E2-93C7B803D571}
+	EndGlobalSection
+EndGlobal
